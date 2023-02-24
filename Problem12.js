@@ -10,6 +10,7 @@ function dzialanie(max, maxDzielnik) {
 
                 dzielnikcounter = dzielnikcounter + 1
 
+                
                 if(dzielnikcounter == 500){
                     return console.log(fibo);
                 }
